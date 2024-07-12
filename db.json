@@ -1,0 +1,57 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employee": [
+    {
+      "firstName": "Ramakrishna",
+      "lastName": "Vadlakonda",
+      "email": "ramkv43@gmail.com",
+      "dob": "2023-08-06T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "Abc.pvt.led",
+      "experience": 5,
+      "package": 14,
+      "id": 1
+    },
+    {
+      "firstName": "Saiteja",
+      "lastName": "Bollabathini",
+      "email": "kd@gmail.com",
+      "dob": "2000-02-27T18:30:00.000Z",
+      "gender": "male",
+      "education": "Intermediate",
+      "company": "TCS",
+      "experience": 2,
+      "package": 4,
+      "id": 3
+    },
+    {
+      "firstName": "Saiprasad",
+      "lastName": "Vemula",
+      "email": "spv@gmail.com",
+      "dob": "2000-07-16T18:30:00.000Z",
+      "gender": "male",
+      "education": "Graduate",
+      "company": "TechMahendrajgjs",
+      "experience": 2,
+      "package": 4,
+      "id": 4
+    }
+  ]
+}
